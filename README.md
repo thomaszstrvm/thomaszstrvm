@@ -1,16 +1,21 @@
-## Hi there 👋
+# Thomas Marques
 
-<!--
-**thomaszstrvm/thomaszstrvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student focused on data-oriented development.
+Currently building foundations in Python, SQL, and data engineering, with practical background in data analysis for the audiovisual and automotive sectors.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python** — scripting, automation, and data manipulation
+- **SQL** — relational modeling and querying
+- **Data** — pipelines, analysis, and structured thinking
+- **BI** — Looker Studio and data storytelling
+
+## Currently
+
+- Studying Software Engineering
+- Deepening knowledge in Python and SQL
+- Exploring data pipelines and analysis workflows
+
+---
+
+SP, Brazil
