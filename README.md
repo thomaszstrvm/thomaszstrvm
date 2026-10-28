@@ -1,8 +1,8 @@
 # Thomas Marques
 
-Software Engineering student focused on backend, data, and automation.
+Software Engineering student focused on backend, data, automation and artificial intelligence.
 
-I work with Python, SQL, Java, and C#, with experience building small applications, working with relational databases, consuming APIs, and applying object-oriented programming concepts.
+I work with Python, SQL, Java, C# and artificial intelligence tools like Codex/Claude. I have experience building small applications, working with relational databases, consuming APIs, and applying object-oriented programming concepts.
 
 I also have a professional background in audiovisual production and automotive marketing, which gave me experience working with data, clients, workflows, and technical problem-solving.
 
@@ -16,6 +16,7 @@ I also have a professional background in audiovisual production and automotive m
 - **APIs / HTTP** — REST concepts, JSON, GET, POST, PUT/PATCH, and DELETE
 - **Data** — analysis, structured data, and data-oriented workflows
 - **BI** — Looker Studio and data visualization
+- - **AI** — Applications integrated with Codex/Claude
 
 ## Currently
 
